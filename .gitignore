@@ -49,6 +49,8 @@ Escape/SourceArt/**/*.tga
 Escape/Binaries/*
 Escape/Plugins/*/Binaries/*
 
+Escape/Content
+
 # Builds
 Escape/Build/*
 
